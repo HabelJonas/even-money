@@ -1,6 +1,6 @@
-# EvenMoney
+# Even Money
 
-![GitHub Actions Status](https://github.com/HabelJonas/EvenMoney/actions/workflows/android.yml/badge.svg)
+![GitHub Actions Status](https://github.com/HabelJonas/even-money/actions/workflows/android.yml/badge.svg)
 
 A modern expense sharing app that makes splitting bills with friends, roommates, and travel companions effortless and stress-free.
 
