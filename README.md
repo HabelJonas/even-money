@@ -20,7 +20,7 @@ EvenMoney simplifies group expense management with a clean, intuitive interface 
 
 - **Frontend**: Kotlin with Jetpack Compose
 - **Backend**: Firebase (Authentication, Firestore)
-- **Architecture**: Repository pattern with interfaces for testability
+- **Design Pattern**: Repository pattern, MVC 
 
 ## Screenshots
 
